@@ -5,7 +5,7 @@ Using Tis L's "Brot & Spiele" as an example
 
 ![](./imgs/brot_spiele.gif)
 
-The example above was scaled down and we had to decrease the framerate to keep file size small you can export 1280x1280 pixels and up to 60fps using touchdesigner's free version.
+The example above was scaled down and exported using only 15fps to keep file size small. You can export 1280x1280 pixels and up to 60fps using touchdesigner's free version.
 
 ## How to
 
